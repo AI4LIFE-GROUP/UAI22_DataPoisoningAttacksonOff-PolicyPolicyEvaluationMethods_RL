@@ -1,4 +1,4 @@
-# DOPE
+# DOPE: Data Poisoning Attacks on Off-Policy Policy Evaluation Methods
 [Code for DOPE: Data Poisoning Attack on Off-Policy Policy Evaluation Methods](https://tinyurl.com/4686r8sb)
 
 ## Running
